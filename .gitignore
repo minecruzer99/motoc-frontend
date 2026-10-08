@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+battery-helper/target/
+# Prebuilt battery helper is built against one machine's Monado build —
+# users build it from battery-helper/ (see README). Ship it as a
+# GitHub Release asset instead of committing it, if at all.
+/fbt-battery
