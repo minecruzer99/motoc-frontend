@@ -11,8 +11,7 @@ works on Arch-based Linux systems. might work on others but I haven't tested it
 
 This program is a dark, single-window GUI for calibrating full-body tracking with
 `motoc` under WiVRn / Monado — built for Quest 3 +
-Vive Tracker 3.0 setups on Linux, out of one too many evenings spent
-fighting the command line in a headset.
+Vive Tracker 3.0 setups on Linux. I was getting instant calibration errors when trying to use the UI that motoc came with so I just decided to make my own with Meta Muse AI.
 
 ![version](https://img.shields.io/badge/version-2.5-informational)
 
