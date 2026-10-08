@@ -6,7 +6,10 @@ I did not like the front end that motoc came with so I made my own!
 
 works on Arch-based Linux systems. might work on others but I haven't tested it
 
-A dark, single-window GUI for calibrating full-body tracking with
+
+
+
+This program is a dark, single-window GUI for calibrating full-body tracking with
 `motoc` under WiVRn / Monado — built for Quest 3 +
 Vive Tracker 3.0 setups on Linux, out of one too many evenings spent
 fighting the command line in a headset.
