@@ -1,0 +1,11 @@
+# Template — install.sh fills in the real install path in the Exec line.
+# Don't copy this file into your applications folder as-is.
+[Desktop Entry]
+Name=Calibrate FBT
+Comment=WiVRn full-body tracking calibration
+Exec=python3 "__APP_DIR__/fbt-calibrator.py"
+Icon=fbt-calibrator
+Type=Application
+Terminal=false
+StartupNotify=false
+Categories=Game;Utility;
