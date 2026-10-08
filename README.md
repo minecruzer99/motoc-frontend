@@ -1,6 +1,6 @@
 # FBT Calibrator
 
-#THIS IS VIBE CODED SOFTWARE, USE AT YOUR OWN RISK
+THIS IS VIBE CODED SOFTWARE, USE AT YOUR OWN RISK
 
 I did not like the front end that motoc came with so I made my own! 
 
