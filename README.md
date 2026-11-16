@@ -62,6 +62,20 @@ fighting the command line in a headset.
   honored first, then konsole, GNOME Terminal, kitty, alacritty, foot,
   xterm, and friends are tried in order.
 
+## Download
+
+Whole package (recommended): clone it, or grab the zip from the green
+Code button on the repo page.
+
+```bash
+git clone https://github.com/minecruzer99/motoc-frontend.git
+```
+
+Just the app, no switcher: download `fbt-calibrator-v4.3.py` from the
+[v4.3 beta release](https://github.com/minecruzer99/motoc-frontend/releases/tag/v4.3)
+and run it with `python3 fbt-calibrator-v4.3.py`. The single file skips
+version switching, so take the whole package if you want the switcher.
+
 ## Install and launch (current workflow)
 
 This is the recommended path. Do not use the legacy `install.sh`
