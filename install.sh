@@ -1,4 +1,13 @@
 #!/bin/sh
+# LEGACY WARNING: this installer installs v2.5 ONLY
+# (fbt-calibrator.py), and it overwrites
+# ~/.local/share/applications/calibrate-fbt.desktop, which is the
+# same app-menu launcher that setup-switcher.sh creates for the
+# version switcher. Running this after setup-switcher.sh will
+# silently downgrade the app-menu entry to v2.5-only, losing
+# presets, queue, pre-flight, history, and the icon handling.
+# Recommended path: use setup-switcher.sh instead. This file is
+# kept only because it may be linked from the GitHub repo history.
 # Install the FBT Calibrator for the current user (no sudo).
 #
 #   ./install.sh
